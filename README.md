@@ -1,2 +1,2 @@
 # GlasseyFournierBackup
-Backup of glasseyfournier.ch, as well as blog archive
+Backup of glasseyfournier.ch's blog
